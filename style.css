@@ -43,5 +43,16 @@ h3{
   font-family: "Lucida Console", Monaco, monospace;
 }
 p{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+@media (max-width: 400px) {
+  #sidebar{
+    width: 5%;
+    background-color:white;
+    border: none;
+    background-image:none;
+  }
+  a:visited{
+    color: red;
+  }
 }
