@@ -21,3 +21,7 @@ body{
 .image{
   margin: auto;
 }
+footer{
+  margin-left:40%;
+  margin-right: 40%;
+}
